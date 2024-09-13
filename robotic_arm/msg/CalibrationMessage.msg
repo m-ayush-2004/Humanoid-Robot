@@ -1,0 +1,12 @@
+float32 m1_coef_
+float32 m2_coef_
+float32 m3_coef_
+float32 m4_coef_
+float32 m1_intercept_
+float32 m2_intercept_
+float32 m3_intercept_
+float32 m4_intercept_
+float32 m1_theta_
+float32 m2_theta_
+float32 m3_theta_
+float32 m4_theta_
